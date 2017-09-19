@@ -8,3 +8,10 @@ Notes from lesson
 - returns the JSX that the compt is responsible for rendering
 - if compt resides in its own file, must be exported
 - next: nested components
+
+
+- Nested components!
+
+- Coming:  pass dt from parent to child
+- iterate over collections
+- HMR hot mod replacement,  update automtclly in browser
