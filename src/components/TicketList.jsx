@@ -5,7 +5,7 @@ function TicketList(props){
   return(
       <Ticket
         location="3A"
-        names="Thato and Haley"
+        names="Thanatos and Haley"
         issue="Firebase won't save"/>
 
   );

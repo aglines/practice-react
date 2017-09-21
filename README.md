@@ -26,4 +26,21 @@ import ReactDOM from "react-dom";
 11. from PROPS lesson -
   npm install prop-types@15.5.10 --save
 
-  
+
+
+12. Webpack Development Server
+$ npm install webpack-dev-server@2.5.0 -g
+$ npm install webpack-dev-server@2.5.0 --save-dev
+
+13. We can then bundle and serve our project with the following two commands:
+$ webpack
+$ webpack-dev-server
+
+-- Now, projects are at http://localhost:8080
+
+14. HHot Module Replacement - hot swapping
+npm install react-hot-loader@3.0.0-beta.7 --save-dev
+
+- Webpack Configurations to Support HMR
+...
+$ npm install html-webpack-plugin@2.29.0 --save-dev
