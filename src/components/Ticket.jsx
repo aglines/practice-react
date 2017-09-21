@@ -4,8 +4,8 @@ function Ticket(props)
 {
   return(
     <div>
-      <h3>thato and haley</h3>
-      <p><em>Firebase won't save</em></p>
+      <h3>{props.location} - {props.names}</h3>
+      <p><em>{props.issue}</em></p>
       <hr />
     </div>
   );

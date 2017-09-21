@@ -14,4 +14,4 @@ Notes from lesson
 
 - Coming:  pass dt from parent to child
 - iterate over collections
-- HMR hot mod replacement,  update automtclly in browser
+- HMR hot mod replacement,  update automtically in browser

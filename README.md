@@ -20,3 +20,8 @@ import ReactDOM from "react-dom";
 9. Run $ webpack to compile, bundle code
 
 10. for now, when change code, will need to rerun webpack
+
+
+
+11. from PROPS lesson -
+  npm install prop-types@15.5.10 --save
